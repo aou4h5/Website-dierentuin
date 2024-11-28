@@ -1,8 +1,9 @@
 <!doctype HTML> 
-<html>
+<html lang="nl">
 
 <head>
 <meta content="width=device-width"/>
+<meta charset="utf-8"/>
 <link rel="stylesheet" type="text/css" href="styles.css"/>
 <title>De dierentuin van Schravenlant <title/>
 </head>
